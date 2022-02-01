@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+\<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
     <%@ page import="java.util.*" %>
     <%@ page import="java.io.*" %>
@@ -27,7 +27,7 @@ do{
 
 %>
 <div id="header">
-	<h1><a href="index.jsp">FACEMASH</a></h1>
+	<h1><a href="index.jsp">FACEMASH2</a></h1>
 </div>
 <div id="main">
 	<h3>Who's Hotter? Click to Choose</h3>
